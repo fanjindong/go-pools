@@ -1,0 +1,6 @@
+github.com/fanjindong/go-pools v0.0.0-20210731094132-d64821f79d64 h1:uk5uDZr+jkqhtczifI8ujnZ31eo1Rkv+sAeXINMqmXo=
+github.com/fanjindong/go-pools v0.0.0-20210731094132-d64821f79d64/go.mod h1:768AJFQ3AUdh1cdALGWHxCismDXgzB0N+8jJIjlWM8I=
+github.com/fanjindong/go-pools v0.0.0-20210731100507-82fdb4eb9ece h1:w12XxDbqJJHHFT9un+Kn9jqDBGO+W3bclWMKuswMUfw=
+github.com/fanjindong/go-pools v0.0.0-20210731100507-82fdb4eb9ece/go.mod h1:mdWEetOtl47RaLi2sCKLAC1dpNpMaKmtIeQq1AA2QCo=
+github.com/streadway/amqp v1.0.0 h1:kuuDrUJFZL1QYL9hUNuCxNObNzB0bV/ZG5jV3RWAQgo=
+github.com/streadway/amqp v1.0.0/go.mod h1:AZpEONHx3DKn8O/DFsRAY58/XVQiIPMTMB1SddzLXVw=
