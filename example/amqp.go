@@ -12,6 +12,7 @@ func main() {
 	if err != nil {
 		panic("Failed to connect to RabbitMQ")
 	}
+	defer conn.Close()
 	factory := func(context.Context) (pools.Resource, error) {
 		return conn.Channel()
 	}
